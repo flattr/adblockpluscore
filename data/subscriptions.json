@@ -211,5 +211,11 @@
     "title": "Fanboy's Social Blocking List",
     "url": "https://easylist-downloads.adblockplus.org/fanboy-social.txt",
     "homepage": "https://easylist.to/"
+  },
+  {
+    "type": "circumvention",
+    "title": "User Choice",
+    "url": "https://userchoice.tech/paywallfilters.txt",
+    "homepage": "https://userchoice.tech"
   }
 ]
